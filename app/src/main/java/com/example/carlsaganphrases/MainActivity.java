@@ -33,11 +33,11 @@ public class MainActivity extends AppCompatActivity {
                 "Books permit us to voyage through time, to tap the wisdom of our ancestors."
         };
 
-        int numberDrawn = new Random().nextInt(phrases.length);
+        int drawnIndex = new Random().nextInt(phrases.length);
 
         TextView text = (TextView) findViewById(R.id.result_text);
 
-        text.setText(phrases[numberDrawn]);
+        text.setText(phrases[drawnIndex]);
 
     }
 }
