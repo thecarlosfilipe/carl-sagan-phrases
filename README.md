@@ -1,6 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues-raw/thecarlosfilipe/carl-sagan-phrases.svg)](https://github.com/thecarlosfilipe/carl-sagan-phrases/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/thecarlosfilipe/carl-sagan-phrases.svg)](https://github.com/thecarlosfilipe/carl-sagan-phrases/commits/master)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/thecarlosfilipe/carl-sagan-phrases.svg)](https://GitHub.com/thecarlosfilipe/carl-sagan-phrases/pulls/)
+[![GitHub issues](https://img.shields.io/github/issues-raw/carlozfilipe/carl-sagan-phrases.svg)](https://github.com/carlozfilipe/carl-sagan-phrases/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/carlozfilipe/carl-sagan-phrases.svg)](https://github.com/carlozfilipe/carl-sagan-phrases/commits/master)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/carlozfilipe/carl-sagan-phrases.svg)](https://GitHub.com/carlozfilipe/carl-sagan-phrases/pulls/)
 [![License: MIT](https://img.shields.io/github/license/carlozfilipe/carl-sagan-phrases)](https://github.com/carlozfilipe/carl-sagan-phrases/blob/master/LICENSE)
 
 
